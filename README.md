@@ -11,4 +11,4 @@
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![HyperJs](https://img.shields.io/badge/Hyper-000000?style=for-the-badge&logo=hyper&logoColor=white)
 
-![Github](https://github-readme-stats.vercel.app/api?username={username})
+![Github](https://github-readme-stats.vercel.app/api?username=hyperspace42)
