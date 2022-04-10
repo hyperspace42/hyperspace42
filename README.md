@@ -1,5 +1,7 @@
 # Hi 🌌
 
+![Codewars](L:https://www.codewars.com/users/hyperspace42/badges/large)
+
 ## My skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,vue,tailwind,mongodb,prisma)](https://skillicons.dev)
 
