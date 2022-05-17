@@ -14,4 +14,4 @@
 
 ---
 
-![Github](https://github-readme-stats.vercel.app/api?username=hyperspace42)
+![GitHub](https://github-readme-stats.vercel.app/api?username=hyperspace42&theme=dark&show_icons=true)
